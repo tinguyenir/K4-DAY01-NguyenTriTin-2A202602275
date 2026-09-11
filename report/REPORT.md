@@ -8,7 +8,7 @@
 
 **Checkpoint:** `yolo11n-cls.pt`, `yolo11n.pt`, `yolo11n-seg.pt`
 
-**Thay đổi so với notebook nguồn:** Không. Giữ nguyên ba checkpoint, taxonomy, dữ liệu mẫu và ngưỡng mặc định `0.35` cho detection/instance segmentation. Không huấn luyện hoặc fine-tune model.
+
 
 > ZIP do notebook tạo có tên `<KHOA>-DAY01-report.zip` (ví dụ: `K4-DAY01-report.zip`). Giải nén rồi đặt trực tiếp `REPORT.md` và
 > `day1_lab_outputs/` vào thư mục `report/` của repository tạo từ template. Không ghi họ tên, MSSV,
